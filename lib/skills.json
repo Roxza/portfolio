@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Bootstrap",
+    "path": "/image/skills/bootstrap.svg"
+  },
+  {
+    "name": "Css",
+    "path": "/image/skills/css.svg"
+  },
+  {
+    "name": "Github",
+    "path": "/image/skills/github.svg"
+  },
+  {
+    "name": "Html",
+    "path": "/image/skills/html.svg"
+  },
+  {
+    "name": "Javascript",
+    "path": "/image/skills/javascript.svg"
+  },
+  {
+    "name": "MongoDB",
+    "path": "/image/skills/mongodb.svg"
+  },
+  {
+    "name": "NextJS",
+    "path": "/image/skills/nextjs.svg"
+  },
+  {
+    "name": "React",
+    "path": "/image/skills/react.svg"
+  },
+  {
+    "name": "Sass",
+    "path": "/image/skills/sass.svg"
+  },
+  {
+    "name": "Php",
+    "path": "/image/skills/php.svg"
+  },
+  {
+    "name": "TypeScript",
+    "path": "/image/skills/typescript.svg"
+  },
+  {
+    "name": "Vercel",
+    "path": "/image/skills/vercel.svg"
+  },
+  {
+    "name": "Vue",
+    "path": "/image/skills/vue.svg"
+  },
+  {
+    "name": "NuxtJS",
+    "path": "/image/skills/nuxt.svg"
+  },
+  {
+    "name": "Bulma",
+    "path": "/image/skills/bulma.svg"
+  },
+  {
+    "name": "Tailwind",
+    "path": "/image/skills/tailwind.svg"
+  },
+  {
+    "name": "Express",
+    "path": "/image/skills/express.svg"
+  },
+  {
+    "name": "NodeJS",
+    "path": "/image/skills/node.svg"
+  },
+  {
+    "name": "Yarn",
+    "path": "/image/skills/yarn.svg"
+  },
+  {
+    "name": "Electron",
+    "path": "/image/skills/electron.svg"
+  }
+]

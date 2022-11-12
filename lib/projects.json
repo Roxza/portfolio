@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "bg": "https://i.ibb.co/4N8YgWr/Screenshot-2.webp",
+            "name": "Giftix",
+            "text":"AwardBot is an open source advanced giveaway bot. Written in Discord.js. You can set conditions for the giveaways, automatically deliver the prizes, and lock the giveaways.",
+            "url": "https://github.com/HelloAward"
+        },
+        {
+            "bg": "https://i.ibb.co/4gsjpKq/Ekran-Resmi-2022-09-02-22-11-01.png",
+            "name": "Saely",
+            "text":"A service that streams the latest anime news in a fast and easy to use way.",
+            "url": "https://saely.me"
+        },
+        {
+            "bg": "https://i.ibb.co/kmBT1d8/Ekran-Resmi-2022-09-02-22-14-05.png",
+            "name": "Discord Bio",
+            "text":"A service with many features that allows you to quickly prepare and publish your bio.",
+            "url": "https://dbio.me"
+        },
+        {
+            "bg": "https://i.ibb.co/1MLY8wX/Ads-z.png",
+            "name": "Weather App",
+            "text":"A simple weather app that shows the weather of the city you want.",
+            "url": "https://www.mediafire.com/file/xqlgltz5cns4oan/Weather+App+(Test).apk/file"
+        }
+    ]
+}
